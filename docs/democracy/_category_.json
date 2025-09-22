@@ -1,0 +1,8 @@
+{
+  "label": "Democracy",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "An onchain strategy simulation game. Become a citizen, vote on policies proposed by agentic leaders, and navigate dynamic world events. Become the most democractic country in the world!"
+  }
+}
